@@ -10,6 +10,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-11-03"
 license: MIT
+doi: "10.5281/zenodo.23924439"
 repository-code: "https://github.com/LucasBB1/Fragmentacion-Congreso-Nacional"
 keywords:
   - sistema de partidos
@@ -29,3 +30,4 @@ preferred-citation:
   year: 2026
   number: "4"
   collection-title: "Documento de trabajo"
+  doi: "10.5281/zenodo.23924456"

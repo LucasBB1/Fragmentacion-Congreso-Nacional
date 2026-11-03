@@ -1,10 +1,12 @@
 # Más allá de la regla: fragmentación electoral y parlamentaria en Chile tras el fin del sistema binominal, 2009–2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23924439.svg)](https://doi.org/10.5281/zenodo.23924439)
+
 Código y datos del **Documento de trabajo N.° 4** de Lucas Bottinelli Baltra. El estudio pregunta cuánto del aumento de la fragmentación del Congreso chileno se debe a la reforma electoral de 2015 (Ley N.° 20.840) y cuánto a la fragmentación del voto, y si la fragmentación continúa durante la legislatura. Usa los resultados por candidato de las elecciones de diputados y senadores de 2009 a 2025, el registro de militancias de la Cámara y una reconstrucción de la militancia de los senadores.
 
 **Autor:** Lucas Bottinelli Baltra · [lucasbb1.github.io](https://lucasbb1.github.io) · ORCID [0009-0000-4865-7261](https://orcid.org/0009-0000-4865-7261)
 
-El documento está en `documento/` (Word y PDF).
+El documento está en `documento/` (Word y PDF) y en Zenodo: https://doi.org/10.5281/zenodo.23924456
 
 ## Resultados principales
 
@@ -36,7 +38,9 @@ Paquetes: `dplyr`, `tidyr`, `readr`, `purrr`, `stringr`, `ggplot2`, `readxl`, `s
 
 ## Cómo citar
 
-Bottinelli Baltra, L. (2026). *Más allá de la regla: fragmentación electoral y parlamentaria en Chile tras el fin del sistema binominal, 2009–2026* (Documento de trabajo N.° 4).
+Bottinelli Baltra, L. (2026). *Más allá de la regla: fragmentación electoral y parlamentaria en Chile tras el fin del sistema binominal, 2009–2026* (Documento de trabajo N.° 4). https://doi.org/10.5281/zenodo.23924456
+
+Código y datos: Bottinelli Baltra, L. (2026). *Fragmentacion-Congreso-Nacional* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23924439
 
 ## Licencias
 
