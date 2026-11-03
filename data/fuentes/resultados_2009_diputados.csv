@@ -1,0 +1,430 @@
+distrito;pacto;candidato;partido;votos;electo
+1;A;Iván Paredes Fierro;PS;12084;0
+1;A;Orlando Vargas Pizarro;ILA;22425;1
+1;B;Nino Baltolu Rasera;UDI;17644;1
+1;B;Ximena Valcarce Becerra;RN;15262;0
+1;C;Nelson Silva Orellana;PH;613;0
+1;C;Patricio Barrios Alday;ILC;1029;0
+1;D;Jorge Bernabé Seleme Zapata;PRI;489;0
+1;D;Pilar Mazuela Aguila;ILD;2728;0
+1;IND;Luis Leblanc Valenzuela;IND;2447;0
+2;A;Hugo Gutiérrez Gálvez;PCCH;28217;1
+2;A;Ricardo Hormazábal Sánchez;PDC;3896;0
+2;B;Néstor Jofré Núñez;RN;11537;0
+2;B;Marta Isasi Barbieri;ILB;28884;1
+2;C;Julio Volenski Burgos;ILC;3191;0
+2;C;Patricio Ferreira Rivera;ILC;3741;0
+2;D;Fernando Manterola Salas;PRI;7032;0
+2;D;Gladys Asunción Pérez Díaz;PRI;6607;0
+3;A;Marcos Andrés Espinosa Monardes;PRSD;16223;1
+3;A;Rodolfo Seguel Molina;PDC;7060;0
+3;B;Felipe Ward Edwards;UDI;24618;1
+3;B;Gerardo Castro Cortés;CH1;1835;0
+3;C;Pablo Onell Aracena;PH;1064;0
+3;C;Julio Ramos Ossandón;ILC;2712;0
+3;D;Mirta Jesús Moreno Moreno;PRI;9456;0
+3;D;Fernando San Román Bascuñán;MAS;2918;0
+4;A;Jorge Molina Cárcamo;PPD;22351;0
+4;A;Gonzalo Dantagnan Vergara;PDC;7350;0
+4;B;Arturo Basadre Reyes;CH1;5935;0
+4;B;Manuel Rojas Molina;UDI;37241;1
+4;C;María Josefina Barros Aroca;PE;2977;0
+4;C;Pedro Luque Arancibia;PH;1779;0
+4;D;Pedro Araya Guerrero;PRI;27268;1
+4;D;Marcos Simunovic Petricio;PRI;5957;0
+5;A;Lautaro Carmona Soto;PCCH;17022;1
+5;A;Anita Quiroga Araya;PDC;13503;0
+5;B;Carlos Vilches Guzmán;UDI;13159;1
+5;B;René Aedo Ormeño;RN;10714;0
+5;C;Jorge Oporto Marín;PE;838;0
+5;C;Bruce Trench Fontanes;ILC;2199;0
+5;D;Miguel Quintana Marco;ILD;1961;0
+5;D;Wilson Wastavino Rivera;PRI;1680;0
+6;A;Alberto Robles Pantoja;PRSD;11582;1
+6;A;Víctor Manuel Rebolledo González;PPD;3612;0
+6;B;Juan Iván Sabando Santibáñez;CH1;5336;0
+6;B;Giovanni Calderón Bassi;UDI;8330;1
+6;D;Julieta Cruz Figueroa;PRI;6157;0
+6;D;Fernando Zamorano Fernández;MAS;5547;0
+6;IND;Osvaldo Delgado Quevedo;IND;1827;0
+6;IND;Juan Luis Marré Ramírez;IND;869;0
+7;A;Marcelo Díaz Díaz;PS;32673;1
+7;A;Francisco Villalón Laidlaw;PDC;11896;0
+7;B;Sergio Gahona Salazar;UDI;15614;0
+7;B;Mario Bertolino Rendic;RN;18037;1
+7;C;Penélope Alcayaga Areyte;PH;1154;0
+7;C;Karina Espinoza Rodríguez;ILC;890;0
+7;D;Yuri Olivares Olivares;PRI;5295;0
+7;D;Percival Madero Santana;ILD;3371;0
+8;A;Matías Walker Prieto;PDC;28948;1
+8;A;Manouchehr Manouchehri Moghadam Kashan Lobos;PS;14753;0
+8;B;Adriana Peñafiel Villafañe;CH1;4915;0
+8;B;Susana Verdugo Baraona;UDI;18936;0
+8;C;Miguel Alvarado Ramírez;ILC;6794;0
+8;C;Tirso González Alquinta;ILC;905;0
+8;D;Ana Victoria Durruty Corral;ILD;2731;0
+8;D;Felipe Alamo Barrios;ILD;2471;0
+8;IND;Pedro Velásquez Seguel;IND;25919;1
+9;A;Adriana Muñoz Dalbora;PPD;15332;1
+9;A;Renán Fuentealba Vildósola;PDC;10729;0
+9;B;Darío Molina Sanhueza;UDI;12219;0
+9;B;Juan Enrique Jara Opazo;ILB;2934;0
+9;C;Catherine Guerra Gallardo;PH;831;0
+9;D;Eduardo Edmundo Salas Cerda;PRI;2856;0
+9;D;Luis Lemus Aracena;PRI;15735;1
+10;A;Eduardo Cerda García;PDC;30017;1
+10;A;Arturo Barrios Oteíza;PS;12856;0
+10;B;Alfonso Vargas Lyng;RN;34859;0
+10;B;Andrea Molina Oliva;ILB;36000;1
+10;C;Esteban Maturana Doña;ILC;11266;0
+10;C;Fernando Orellana Astorga;ILC;1941;0
+10;D;Juan Manuel Díaz Villanueva;PRI;6584;0
+10;IND;Tomás Díaz Hormazábal;IND;3282;0
+11;A;Marco Antonio Núñez Lozano;PPD;49801;1
+11;A;Daniel Garrido Quintanilla;PCCH;3917;0
+11;B;Juan Antonio Coloma Alamos;UDI;21209;0
+11;B;Gaspar Rivas Sánchez;RN;21634;1
+11;C;Ricardo Georges Cid;PH;1081;0
+11;C;Leonardo Véliz Díaz;ILC;3413;0
+11;IND;Claudio Rodríguez Cataldo;IND;5937;0
+12;A;Marcelo Schilling Rodríguez;PS;24124;1
+12;A;Rodrigo Eduardo Oliver Varas;PRSD;15025;0
+12;B;Amelia Herrera Silva;RN;30092;0
+12;B;Arturo Squella Ovalle;UDI;30108;1
+12;C;Martín Ristempart Soto;PH;2598;0
+12;C;Marcelo Trivelli Oyarzún;ILC;17554;0
+12;D;Milovan Andro Pablo Kegevic Bustamante;PRI;1052;0
+12;D;Flavio Castillo Castillo;PRI;1097;0
+13;A;Laura Soto González;PPD;18945;0
+13;A;Aldo Cornejo González;PDC;40582;1
+13;B;Rossana Ducaseau Flores;ILB;22239;0
+13;B;Joaquín Godoy Ibáñez;RN;38183;1
+13;C;Jaime González Tapia;PH;2743;0
+13;C;Francisco Marín Castro;ILC;5851;0
+13;D;Manuel Apablaza Lastarria;PRI;1239;0
+13;D;Abelardo Cubillos Cofré;PRI;969;0
+14;A;Rodrigo González Torres;PPD;41168;1
+14;A;Emilio Alejandro Oñate Vera;PRSD;22914;0
+14;B;Carlos Gómez González;RN;32142;0
+14;B;Edmundo Eluchans Urenda;UDI;45829;1
+14;C;Jaime Romero Pérez;PH;2838;0
+14;C;Julia Rojas Vásquez;ILC;2487;0
+14;D;Aníbal González Estay;ILD;4911;0
+14;IND;Andrés Lavín Alvear;IND;6715;0
+15;A;Patricio Tombolini Véliz;PRSD;7831;0
+15;A;Víctor Torres Jeldes;PDC;18102;1
+15;B;María José Hoffmann Opazo;UDI;20585;1
+15;B;Carmen Ibáñez Soto;RN;15462;0
+15;C;Cosme Segundo Caracciolo Alvarez;ILC;4251;0
+15;C;Rosa María Leal Fuentes;ILC;1009;0
+15;D;Claudio Poblete Herrera;PRI;1035;0
+15;D;Nelson De La Barra Castro;PRI;378;0
+15;IND;Fernando Rodríguez Vicuña;IND;14622;0
+15;IND;Fernando Soto Muñoz;IND;2485;0
+16;A;Gabriel Silber Romo;PDC;48333;1
+16;A;Arturo Martínez Molina;PS;38649;0
+16;B;Hernán Ortiz Gálvez;RN;13829;0
+16;B;Patricio Melero Abaroa;UDI;58306;1
+16;C;César Alejandro Montenegro Ampuero;PH;5358;0
+17;A;María Antonieta Saa Díaz;PPD;45798;1
+17;A;Eugenio Ortega Frei;PDC;19630;0
+17;B;Pablo Jofré Rivano;UDI;15317;0
+17;B;Karla Rubilar Barahona;RN;46572;1
+17;C;Eugenio Osorio Contreras;PH;4811;0
+17;D;Miguel Angel Miño Lillo;PRI;2678;0
+17;D;Caroll Cuellar Godoy;MAS;5663;0
+18;A;Cristina Girardi Lavín;PPD;51669;1
+18;A;Claudio Alejandro Narea Guajardo;ILA;18731;0
+18;B;Nicolás Monckeberg Díaz;RN;40782;1
+18;B;Mario Varela Herrera;UDI;6951;0
+18;C;Verónica Torres González;PH;2492;0
+18;C;René Aucapán Aucapán;ILC;1350;0
+18;D;Carlos Enrique Olivares Zepeda;PRI;16951;0
+18;D;Ana García Sciaraffia;MAS;6577;0
+18;IND;Pablo Pellegrini Ripamonti;IND;4922;0
+19;A;Patricio Hales Dib;PPD;39126;1
+19;A;Gonzalo Durán Baronti;PS;13329;0
+19;B;Claudia Nogueira Fernández;UDI;38297;1
+19;B;Vlado Mirosevic Verdugo;ILB;5148;0
+19;C;Leonora Zúñiga Fuentes;PH;1775;0
+19;C;Cristopher González Castillo;ILC;1305;0
+19;D;Jorge Pavez Urrutia;ILD;2485;0
+19;D;Damaris Hernández Muñoz;MAS;1177;0
+20;A;Pepe Auth Stewart;PPD;49981;1
+20;A;Ricardo Fabrega Lacoa;PDC;24562;0
+20;B;Roberto Sepúlveda Hermosilla;RN;38296;0
+20;B;Mónica Zalaquett Said;UDI;56168;1
+20;C;René Tabilo Alvarez;ILC;16428;0
+20;C;Alvaro Escobar Rufatt;ILC;52755;0
+20;D;René Osorio Serrano;PRI;2245;0
+20;D;Luis Rodolfo Pérez Vera;PRI;1011;0
+21;A;Jorge Burgos Varela;PDC;52982;1
+21;A;Alvaro Cabrera Maray;ILA;15453;0
+21;B;Rodrigo Alvarez Zenteno;UDI;47013;0
+21;B;Marcela Sabat Fernández;RN;48732;1
+21;C;Natalia Sobarzo Galleani;PH;6658;0
+21;C;Claudio Venegas Rojas;ILC;3454;0
+21;D;Gloria Angélica Montero Silva;PRI;3547;0
+22;A;Felipe Harboe Bascuñán;PPD;42060;1
+22;A;Guido Camu Urzúa;PS;9018;0
+22;B;Alberto Cardemil Herrera;RN;38949;1
+22;B;Christian Espejo Muñoz;UDI;9696;0
+22;C;Danilo Monteverde Reyes;PH;3705;0
+22;C;Pablo Peñaloza Torres;ILC;2930;0
+22;D;Guillermo Holtheuer Lafosse;PRI;2428;0
+23;A;Macarena Carvallo Silva;PRSD;22612;0
+23;A;Alberto Cienfuegos Becerra;ILA;27202;0
+23;B;Ernesto Silva Méndez;UDI;60272;1
+23;B;Cristián Monckeberg Bruner;RN;77484;1
+23;C;Alfonso Revuelta Salfate;PH;2066;0
+23;C;Joaquín Arduengo Naredo;PH;2140;0
+23;D;José Francisco Salamanca Santa María;PRI;1677;0
+23;D;Cristián Luco Rosende;PRI;1035;0
+23;IND;Rodrigo García Pinochet;IND;21155;0
+24;A;Enrique Accorsi Opazo;PPD;31383;1
+24;A;Sebastián Iglesias Ramírez;PDC;28741;0
+24;B;Juvenal Olmos Rojas;RN;19024;0
+24;B;María Angélica Cristi Marfil;UDI;44969;1
+24;C;Humberto Valenzuela Paredes;PH;5021;0
+24;D;Juan Bustamante Ramírez;ILD;3522;0
+24;D;Guillermo Abraham González Castro;ILD;2643;0
+25;A;Ximena Vidal Lázaro;PPD;43794;1
+25;A;Gonzalo Duarte Leiva;PDC;29876;0
+25;B;Felipe Salaberry Soto;UDI;28444;1
+25;B;Gonzalo Díaz Del Río Riesco;RN;26337;0
+25;C;Erika Klenner Canales;PH;5161;0
+25;C;Salvador Víctor Ojeda Vásquez;PH;2228;0
+25;D;José Pedro Weinstein Mendel;PRI;3115;0
+25;D;Oscar Soto Garrido;ILD;3191;0
+26;A;Carlos Montes Cisternas;PS;71173;1
+26;A;Myriam Verdugo Godoy;PDC;6455;0
+26;B;Gustavo Alessandri Balmaceda;ILB;20875;0
+26;B;Gustavo Hasbún Selume;UDI;36438;1
+26;C;Juan Carlos Gálvez Galleguillos;PH;1823;0
+26;C;Fernando Muñoz Figueroa;PH;1106;0
+26;D;Gustavo Ignacio Serrano Reyes;PRI;1310;0
+26;D;Marcial Valenzuela Alvarez;ILD;1923;0
+27;A;Tucapel Jiménez Fuentes;PPD;47765;1
+27;A;Daniel Melo Contreras;PS;25731;0
+27;B;Iván Moreira Barros;UDI;53683;1
+27;B;Roberto Nicolini Barison;ILB;13205;0
+27;C;Miguel Angelo Bravo Vilches;PH;3063;0
+27;C;Matías Escanilla Becerra;PH;1153;0
+27;D;Oscar Cavieres Moreau;PRI;2578;0
+27;D;Richard Acharán Barría;MAS;2598;0
+28;A;Guillermo Teillier Del Valle;PCCH;49040;1
+28;A;Jorge Insunza Gregorio De Las Heras;PPD;36004;0
+28;B;Pedro Browne Urrejola;RN;31882;1
+28;B;José Luis Uriarte Campos;UDI;22588;0
+28;D;Ulises Hernán Urzúa López;PRI;3765;0
+28;D;Raúl Arroyo Huenchual;PRI;3015;0
+29;A;Osvaldo Andrade Lara;PS;55152;1
+29;A;Walter Oliva Munizaga;PDC;26061;0
+29;B;Francisco Moreno Guzmán;UDI;42334;0
+29;B;Leopoldo Pérez Lahsen;RN;45464;1
+29;C;Evaristo Vargas Estrada;PH;6161;0
+29;D;Claudio José Hidalgo Moraga;PRI;4749;0
+29;D;Amador Palavecinos Fuenzalida;PRI;4666;0
+30;A;Ramón Farías Ponce;PPD;29335;1
+30;A;Patricio Achurra Garfias;PDC;22548;0
+30;B;Rosa Oyarce Suazo;RN;12329;0
+30;B;José Antonio Kast Rist;UDI;53423;1
+30;C;Carlos Caro Briso;PH;5052;0
+30;D;Germán Silva Pavez;PRI;2143;0
+30;D;Alejandro Carpintero Durán;MAS;1960;0
+30;IND;Angel Bozán Ramos;IND;21079;0
+30;IND;Roxana Miranda Meneses;IND;4332;0
+31;A;Denise Pascal Allende;PS;52763;1
+31;A;Yerko Ljubetic Godoy;PDC;16842;0
+31;B;Gonzalo Uriarte Herrera;UDI;60833;1
+31;B;Jéssica Mualim Fajuri;RN;23441;0
+31;C;Fidel Valenzuela Madrid;PH;4306;0
+31;D;Teresa Ruiz Flores;PRI;4066;0
+31;D;Crescencio López Pérez;PRI;1457;0
+32;A;Juan Luis Castro González;PS;27772;1
+32;A;Aníbal Pérez Lobos;PPD;13475;0
+32;B;Juan José Bruna Carafi;RN;6998;0
+32;B;Alejandro García-Huidobro Sanfuentes;UDI;31346;1
+32;C;Esteban Valenzuela Van-Treek;ILC;8488;0
+32;C;Roberto Villagra Reyes;ILC;2219;0
+33;A;Alejandro Miguel Anselmo Sule Fernández;PRSD;22289;0
+33;A;Ricardo Rincón González;PDC;38057;1
+33;B;Eugenio Bauer Jouanne;UDI;26504;1
+33;B;Patricio Fernández Goycoolea;RN;16721;0
+33;C;Manuela Vocar Rubio;PH;2275;0
+33;C;Claudio Segovia Cofré;ILC;6629;0
+33;D;Deysi Del Carmen Navarro Padilla;PRI;4814;0
+34;A;Moisés Valenzuela Martínez;PDC;13194;0
+34;A;Uldaricio Roberto Acosta Maluenda;PRSD;5352;0
+34;B;Rodrigo Montt Swett;RN;11076;0
+34;B;Javier Macaya Danús;UDI;17130;1
+34;C;Héctor Espinosa Díaz;ILC;1038;0
+34;D;Alejandra Amalia Sepúlveda Orbenes;PRI;42771;1
+34;D;Jorge Andrés Mayol Bouchon;ILD;3333;0
+35;A;Juan Carlos Latorre Carmona;PDC;30300;1
+35;A;Bárbara Figueroa Sandoval;PCCH;4011;0
+35;B;Ramón Barros Montero;UDI;29622;1
+35;B;Lautaro Alliende Carranza;RN;9746;0
+35;C;Angela Sasso Bañados;PH;1275;0
+35;D;Lidia Eliana Pizarro Gamboa;PRI;2221;0
+35;D;Eduardo Román Martínez;PRI;862;0
+36;A;Roberto León Ramírez;PDC;51476;1
+36;A;Leoncio Ruperto Saavedra Concha;PRSD;13766;0
+36;B;Francisco Sanz Abad;RN;11082;0
+36;B;Celso Morales Muñoz;UDI;35732;1
+36;C;José Enrique Farías Díaz;PH;1532;0
+36;D;Héctor Riveros Valenzuela;ILD;1532;0
+36;D;Rosa Riquelme Andrades;ILD;4778;0
+37;A;Sergio Aguiló Melo;PS;31649;1
+37;A;Margarita Reyes Romero;PRSD;11164;0
+37;B;Pablo Bravo Rodríguez;UDI;4937;0
+37;B;Germán Verdugo Soto;RN;32864;1
+37;C;Víctor Miranda Marín;PH;1474;0
+37;D;Leonardo Ramírez Gómez;ILD;1527;0
+37;D;Cristián Alejandro Canales González;ILD;352;0
+38;A;Pablo Lorenzini Basso;PDC;29320;1
+38;A;Roberto Celedón Fernández;ILA;14894;0
+38;B;Catalina Parot Donoso;RN;14606;0
+38;B;Pedro Pablo Alvarez-Salamanca Ramírez;ILB;15844;1
+38;D;Mario Arturo Castillo Ilufi;ILD;1843;0
+39;A;Jorge Tarud Daccarett;PPD;38626;1
+39;A;Héctor Zenteno Rocha;PCCH;3463;0
+39;B;Romilio Gutiérrez Pino;UDI;22487;1
+39;B;Osvaldo Palma Flores;RN;17609;0
+39;C;Sergio Carvajal Cádiz;PH;1306;0
+40;A;Guillermo Ceroni Fuentes;PPD;32643;1
+40;A;Pablo Andia Cariqueo;PCCH;2199;0
+40;B;José Ignacio Pinochet Olave;RN;17737;0
+40;B;Ignacio Urrutia Bonilla;UDI;19323;1
+40;C;Iván Sepúlveda Sepúlveda;PH;1047;0
+41;A;Carlos Abel Jarpa Wevar;PRSD;24093;1
+41;A;Carlos Arzola Burgos;PDC;22611;0
+41;B;Paz Oyarzún Montalva;UDI;31855;0
+41;B;Rosauro Martínez Labbé;RN;42385;1
+41;C;Abelardo Jiménez Moraga;ILC;1336;0
+41;C;Francisco Gutiérrez Durán;ILC;1784;0
+41;D;Patricia Baeza Figueroa;PRI;1927;0
+42;A;Jorge Eduardo Sabag Villalobos;PDC;32174;1
+42;A;Felipe Letelier Norambuena;PPD;26644;0
+42;B;Frank Sauerbaum Muñoz;RN;22861;1
+42;B;Marcelo Rojas Framm;UDI;17030;0
+42;C;Loreto Muñoz Gutiérrez;PH;1601;0
+42;D;Jorge Brito Gajardo;PRI;6034;0
+42;D;Juan Riquelme Venegas;PRI;6115;0
+43;A;Raúl Súnico Galdames;PS;26369;0
+43;A;Cristián Campos Jara;PPD;33622;1
+43;B;Jorge Ulloa Aguillón;UDI;30309;1
+43;B;José Luis Gallego Carrasco;RN;8996;0
+43;C;Jorge Monje Chávez;PH;2341;0
+43;D;Miguel Espinoza González;PRI;2070;0
+43;IND;Mauricio Concha Alarcón;IND;3550;0
+44;A;José Miguel Ortiz Novoa;PDC;45379;1
+44;A;María Angélica Fuentes Fuentealba;PPD;36824;0
+44;B;Claudio Eguiluz Rodríguez;RN;28932;0
+44;B;Enrique Van Rysselberghe Herrera;UDI;44735;1
+44;C;Félix González Gatica;ILC;9471;0
+44;D;Arturo Espinoza Brower;PRI;2502;0
+45;A;Clemira Pacheco Rivas;PS;38379;1
+45;A;Edmundo Salas De La Fuente;PDC;19140;0
+45;B;Sergio Bobadilla Muñoz;UDI;29272;1
+45;B;Eduardo Durán Salinas;RN;10006;0
+45;D;Pamela Jiles Moreno;ILD;11185;0
+45;D;Patricio Sáez Ramírez;ILD;5573;0
+46;A;Cristián Cuevas Zambrano;PCCH;22326;0
+46;A;Manuel Monsalve Benavides;PS;30360;1
+46;B;José Manuel Rebolledo Cáceres;ILB;8132;0
+46;B;Iván Norambuena Farías;UDI;34852;1
+46;D;Jaime Bahamondes Cabrera;PRI;1750;0
+47;A;José Pérez Arriagada;PRSD;46606;1
+47;A;Juan De Dios Parra Sepúlveda;PS;23725;0
+47;B;Juan Lobos Krause;UDI;51937;1
+47;B;Daniel Badilla Alegría;RN;10039;0
+47;C;Carlos Carrasco Pantoja;PH;1430;0
+47;C;Juan José Torres Paredes;ILC;1698;0
+47;D;Nivia Del Carmen Riquelme Gutiérrez;PRI;2433;0
+48;A;Mario Venegas Cárdenas;PDC;20102;1
+48;A;Rubén Quilapi Cabrapan;PS;11260;0
+48;B;Jorge Rathgeb Schifferli;RN;14918;0
+48;B;Gonzalo Arenas Hodar;UDI;17223;1
+48;C;Diego Ancalao Gavilán;ILC;2870;0
+48;D;Luis Soto Ramírez;PRI;1073;0
+49;A;Oscar Carrasco Carrasco;PPD;12744;0
+49;A;Fuad Chahin Valenzuela;PDC;20212;1
+49;B;Enrique Estay Peñaloza;UDI;16009;1
+49;B;Cristián Barra Zambra;RN;15629;0
+49;C;Ricardo Millapán Pichún;PH;1445;0
+49;C;Marco Antonio Ortega Cumiquir;ILC;758;0
+50;A;René Saffirio Espinoza;PDC;37017;1
+50;A;Ricardo Celis Araya;PPD;22330;0
+50;B;Germán Becker Alvear;RN;33785;1
+50;B;Mauricio Gejman Trenit;UDI;14484;0
+50;C;Jaime Madariaga De La Barra;ILC;3710;0
+50;C;Paola Castro Zambrano;ILC;847;0
+50;D;Tatiana Rudolph Espinoza;PRI;1196;0
+50;D;Mariela Silva Leal;PRI;2079;0
+50;IND;Luis Seguel Mora;IND;4604;0
+51;A;Joaquín Tuma Zedan;PPD;16327;1
+51;A;José René Inostroza Valenzuela;ILA;12077;0
+51;B;Cristóbal Leturia Infante;UDI;10771;0
+51;B;José Manuel Edwards Silva;RN;11275;1
+51;C;Domingo Ñancupil Baeza;ILC;4214;0
+51;C;Adolfo Millabur Ñancuil;ILC;3891;0
+51;D;Eduardo Díaz Herrera;PRI;6354;0
+51;D;Andrés Matta Cuminao;PRI;2114;0
+52;A;Fernando Meza Moncada;PRSD;22116;1
+52;A;Andrés Jouannet Valderrama;PDC;8988;0
+52;B;René Manuel García García;RN;20726;1
+52;B;Erwin Gudenschwager Jiménez;UDI;10686;0
+52;C;Eladio Candia Gajardo;PH;671;0
+52;C;Sergio Mora Hernández;ILC;1427;0
+52;D;Patricia Mena Vera;PRI;2195;0
+52;D;Leonel Avila Muñoz;PRI;782;0
+53;A;Alfonso De Urresti Longton;PS;32433;1
+53;A;Exequiel Silva Ortiz;PDC;16620;0
+53;B;Jorge Salazar Ruiz;UDI;7309;0
+53;B;Roberto Delmastro Naso;RN;25360;1
+53;D;Ramón De La Barra Altamirano;PRI;1501;0
+53;D;Carlos Juan Boero Rodríguez;PRI;553;0
+54;A;Enrique Jaramillo Becker;PPD;29004;1
+54;A;Iván Navarro Abarzúa;PDC;10202;0
+54;B;Gonzalo Fuenzalida Figueroa;RN;16749;0
+54;B;Gaston Von Muhlenbrock Zamora;UDI;19978;1
+54;D;Hilda Cerda Espíndola;ILD;965;0
+54;D;Jorge Eugenio Blaessinger Lobos;PRI;598;0
+55;A;Sergio Ojeda Uribe;PDC;23623;1
+55;A;Claudio Antonio Sule Fernández;PRSD;9883;0
+55;B;Javier Hernández Hernández;UDI;22108;1
+55;B;Harry Jurgensen Rundshagen;RN;15888;0
+55;D;Jorge René Tejeda Roa;PRI;5502;0
+55;D;Jaime Marcelo Moraga Carrasco;PRI;591;0
+56;A;Fidel Espinoza Sandoval;PS;39245;1
+56;A;Jorge Cid Manríquez;ILA;5046;0
+56;B;Marcelo Ruiz Alvarez;RN;10852;0
+56;B;Carlos Recondo Lavanderos;UDI;18792;1
+56;D;Mauricio Alejandro Henríquez Barría;PRI;930;0
+56;D;Baltazar Rivera Altamirano;ILD;1629;0
+57;A;Patricio Vallespín López;PDC;33782;1
+57;A;José Ortiz Arcos;PCCH;3523;0
+57;B;Marisol Turres Figueroa;UDI;28552;1
+57;B;José Segura Díaz;RN;13773;0
+57;D;Luis Felipe Zúñiga Obando;PRI;1102;0
+57;D;Jorge Cumming Ibar;ILD;1238;0
+57;IND;Eric Vargas Quinchaman;IND;5556;0
+58;A;Gabriel Ascencio Mansilla;PDC;17457;1
+58;A;Jenny Alvarez Vera;PS;16638;0
+58;B;Alejandro Santana Tirachini;RN;27098;1
+58;B;Claudio Alvarado Andrade;UDI;14371;0
+59;A;René Alinco Bustos;PPD;9381;1
+59;A;Viviana Betancourt Gallegos;PS;8355;0
+59;B;David Sandoval Plaza;UDI;12902;1
+59;B;Pablo Galilea Carrillo;RN;10323;0
+60;A;Carolina Goic Boroevic;PDC;22498;1
+60;A;Ana María Díaz Pérez;PS;4877;0
+60;B;Claudio Radonich Jiménez;RN;9315;0
+60;B;Arturo Storaker Molina;UDI;4520;0
+60;C;Jaime Jelincic Aguilar;ILC;2230;0
+60;C;Luis Burgos Sanhueza;ILC;3570;0
+60;D;Ana Quilahuilque Chávez;PRI;624;0
+60;D;Alex Andrade Veli;PRI;451;0
+60;IND;Sergio Nelson Tapia Ogeda;IND;566;0
+60;IND;Miodrag Marinovic Solo De Zaldívar;IND;17512;1

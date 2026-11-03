@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Si usa este código o estos datos, cite el documento de trabajo y este repositorio."
+title: "Más allá de la regla: fragmentación electoral y parlamentaria en Chile tras el fin del sistema binominal, 2009–2026"
+type: software
+authors:
+  - family-names: "Bottinelli Baltra"
+    given-names: "Lucas"
+    orcid: "https://orcid.org/0009-0000-4865-7261"
+    affiliation: "Pontificia Universidad Católica de Chile"
+version: "1.0.0"
+date-released: "2026-11-03"
+license: MIT
+repository-code: "https://github.com/LucasBB1/Fragmentacion-Congreso-Nacional"
+keywords:
+  - sistema de partidos
+  - fragmentación
+  - reforma electoral
+  - sistema binominal
+  - cambio de partido
+  - Congreso Nacional
+  - Chile
+  - SERVEL
+preferred-citation:
+  type: report
+  title: "Más allá de la regla: fragmentación electoral y parlamentaria en Chile tras el fin del sistema binominal, 2009–2026"
+  authors:
+    - family-names: "Bottinelli Baltra"
+      given-names: "Lucas"
+  year: 2026
+  number: "4"
+  collection-title: "Documento de trabajo"
